@@ -50,7 +50,6 @@ Esses arquivos demonstram como a IA pode atuar em diferentes etapas de um concur
 
 ## 🗂️ Estrutura do Projeto
 
-```bash
 📁 lab-natty-or-not/
 │
 ├── 📄 README.md                # Documentação geral do projeto
