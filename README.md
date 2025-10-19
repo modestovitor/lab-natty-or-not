@@ -48,6 +48,8 @@ Esses arquivos demonstram como a IA pode atuar em diferentes etapas de um concur
 
 ---
 
+''' bash
+
 ## 🗂️ Estrutura do Projeto
 
 📁 lab-natty-or-not/
