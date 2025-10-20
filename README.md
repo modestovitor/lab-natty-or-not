@@ -27,7 +27,6 @@ O resultado é um fluxo **prático, auditável e replicável**, sempre com **Hum
 
 * **App:** *Questionário Pro*
 * **Link público:** [https://partyrock.aws/u/ModestoVitor/5PZtj8gaj/Questionario-Pro](https://partyrock.aws/u/ModestoVitor/5PZtj8gaj/Questionario-Pro)
-* **Captura (opcional):** `docs/partyrock/print-01.png`
 
 **O que faz**
 
@@ -93,9 +92,6 @@ python exemplos/src/generate_questions.py \
 ```bash
 lab-natty-or-not/
 ├── README.md
-├── docs/
-│   └── partyrock/
-│       └── print-01.png              # evidência visual do protótipo (opcional)
 ├── exemplos/
 │   ├── QUESTOES.md                   # questões curadas (rationale + distratores)
 │   ├── EMAIL.md                      # modelo de e-mail institucional
